@@ -35,6 +35,8 @@
 #### 分支合并出现问题
 [Git Error 因文件出错导致上传被打断](https://blog.csdn.net/shizhenweiszw/article/details/87486195)  
 [Git push 远程服务器文件冲突报错](https://blog.csdn.net/weixin_43290229/article/details/86410263)
+#### git访问速度过慢的处理
+[解决git网络访问过慢](https://blog.csdn.net/zhaojieip/article/details/88702947)
 
 ### 通过https同步
 [使用git将项目上传到github](https://www.cnblogs.com/cxk1995/p/5800196.html)
