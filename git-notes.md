@@ -41,4 +41,4 @@
 ## Git Shell
 Gitshell属于一种命令编辑器,是linux的外壳,Git bash属于其中一种.  
 [GitBash介绍及语法](https://blog.csdn.net/goog_man/article/details/95044688)
-
+[Git Add的多种方法](http://www.360doc.com/content/20/0918/19/1314937_936434911.shtml)
