@@ -49,3 +49,5 @@ Gitshell属于一种命令编辑器,是linux的外壳,Git bash属于其中一种
 1. git不能上传空文件夹,查了一下在文件夹里面加一个.gitkeep文件就成了,这应该就是个空文件;
 2. cd 就是进入文件夹的指令, cd ~ 是退出到根目录;cd .. 返回上一个目录; ls -als查看这个文件夹的所有文件;
 3. 如果要删除一个文件夹里的文件,直接 rm 是删不掉的,得先 cd 进入那个目录,然后再执行 rm.
+   > rm -r / rm -R的使用  
+   <https://www.runoob.com/linux/linux-comm-rm.html>
